@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ComposeArticle</string>
+    <string name="pet_care_tutorial">Pet Care Tutorial</string>
+    <string name="shortDes">Proper pet care is crucial for ensuring your pet lives a healthy and happy life. It involves understanding your pet\'s needs for nutrition, exercise, grooming, and regular vet visits, along with providing love and social interaction</string>
+    <string name="long_Des">Pet care is essential for keeping your pet healthy and happy. In this tutorial, you will learn how to care for your pet by understanding its specific needs in terms of diet, exercise, and grooming. Every pet requires a balanced diet tailored to its species, breed, and age. Regular exercise is necessary for physical and mental health, and grooming helps prevent skin issues and keeps your pet clean. Additionally, social interaction and affection are vital to your pet’s emotional well-being. Regular veterinary check-ups are critical for monitoring health and staying on top of vaccinations. By following these guidelines, you can create a safe and loving environment where your pet can thrive</string>
+</resources>
